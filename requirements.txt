@@ -1,0 +1,9 @@
+openai
+python-dotenv
+arxiv
+requests
+tiktoken
+numpy
+python-pptx
+pdf2image
+Pillow
