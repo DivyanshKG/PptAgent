@@ -1,4 +1,4 @@
-# PptAgent: Automated Research Paper Presentations
+# PptAgent: AI-Powered Research Paper Summarizer & Presentation Generator
 
 PptAgent is a Python-based tool that automatically generates a PowerPoint presentation from a given research paper on arXiv. It leverages large language models (LLMs) and a retrieval-augmented generation (RAG) system to summarize the paper and create a well-structured and visually appealing presentation.
 
